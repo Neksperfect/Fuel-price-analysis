@@ -15,6 +15,7 @@ This project dives deep into 2+ years of Nigerian fuel pricing data to understan
 - 🌍 Comparison with **Brent Crude oil prices** to test if global markets drive local prices
 - 🗺️ Regional disparities — which states pay the most (and why)
 - 🧠 Real fuel price (adjusted for inflation) vs. nominal pump price
+  [Real vs Nominal](images/Real_fuel_price_VS_Norminal_pump_price.png)
 
 ## 🔍 Key Insights
 
@@ -23,6 +24,7 @@ This project dives deep into 2+ years of Nigerian fuel pricing data to understan
 *Figure: National average fuel price over time*
 
 - 📊 Strong correlation with **CPI (r = 0.91)** — fuel is a top inflation driver in Nigeria.
+  [Fuel vs Inflation](images/fuel_inflation_correlation.png)
   [Fuel vs CPI](images/Fuel_Vs_Inflation.png)
   
 - 🛢️ Surprisingly **weak (even negative)** correlation with **Brent crude** — meaning our fuel prices follow local forces more than global ones.
