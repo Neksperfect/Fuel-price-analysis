@@ -38,12 +38,14 @@ This project dives deep into 2+ years of Nigerian fuel pricing data to understan
   - National Bureau of Statistics (NBS)
   - TradingEconomics
   - Macrotrends.net
- 📊 [View the notebook](fuel_price_analysis.ipynb)
+
+📊 [View the notebook](fuel_price_analysis.ipynb)
 
 
 ## 📸 Sample Visualization
 
 [Power BI Dashboard](simple_dashbord.png)
+
 [Download the .pbix file](Fuel_prices.pbix)
 
 ## ✨ What You’ll Learn
