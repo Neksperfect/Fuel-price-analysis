@@ -19,8 +19,14 @@ This project dives deep into 2+ years of Nigerian fuel pricing data to understan
 ## 🔍 Key Insights
 
 - 🚨 Fuel prices surged **over 200%** in just 2 years.
+  [National Fuel Price Trends](images/Nigeria_Fuel_Price_Trend.png)
+*Figure: National average fuel price over time*
+
 - 📊 Strong correlation with **CPI (r = 0.91)** — fuel is a top inflation driver in Nigeria.
+  [Fuel vs CPI](images/Fuel_Vs_Inflation.png)
+  
 - 🛢️ Surprisingly **weak (even negative)** correlation with **Brent crude** — meaning our fuel prices follow local forces more than global ones.
+  [Brent vs Fuel Price](images/Brent_Vs_Fuel_Price_Comparison.png)
 
 ## 🧰 Tools & Tech Stack
 
@@ -30,6 +36,7 @@ This project dives deep into 2+ years of Nigerian fuel pricing data to understan
   - National Bureau of Statistics (NBS)
   - TradingEconomics
   - Macrotrends.net
+ 📊 [View the notebook](notebook/fuel_price_analysis(2).ipynb)
 
 ## 📸 Sample Visualization
 
