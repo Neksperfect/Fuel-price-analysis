@@ -15,20 +15,20 @@ This project dives deep into 2+ years of Nigerian fuel pricing data to understan
 - 🌍 Comparison with **Brent Crude oil prices** to test if global markets drive local prices
 - 🗺️ Regional disparities — which states pay the most (and why)
 - 🧠 Real fuel price (adjusted for inflation) vs. nominal pump price
-  [Real vs Nominal](images/Real_fuel_price_VS_Norminal_pump_price.png)
+  [Real vs Nominal](Real_fuel_price_VS_Norminal_pump_price.png)
 
 ## 🔍 Key Insights
 
 - 🚨 Fuel prices surged **over 200%** in just 2 years.
-  [National Fuel Price Trends](images/Nigeria_Fuel_Price_Trend.png)
+  [National Fuel Price Trends](Nigeria_Fuel_Price_Trend.png)
 *Figure: National average fuel price over time*
 
 - 📊 Strong correlation with **CPI (r = 0.91)** — fuel is a top inflation driver in Nigeria.
-  [Fuel vs Inflation](images/fuel_inflation_correlation.png)
-  [Fuel vs CPI](images/Fuel_Vs_Inflation.png)
+  [Fuel vs Inflation](fuel_inflation_correlation.png)
+  [Fuel vs CPI](Fuel_Vs_Inflation.png)
   
 - 🛢️ Surprisingly **weak (even negative)** correlation with **Brent crude** — meaning our fuel prices follow local forces more than global ones.
-  [Brent vs Fuel Price](images/Brent_Vs_Fuel_Price_Comparison.png)
+  [Brent vs Fuel Price](Brent_Vs_Fuel_Price_Comparison.png)
 
 ## 🧰 Tools & Tech Stack
 
@@ -38,11 +38,11 @@ This project dives deep into 2+ years of Nigerian fuel pricing data to understan
   - National Bureau of Statistics (NBS)
   - TradingEconomics
   - Macrotrends.net
- 📊 [View the notebook](notebook/fuel_price_analysis(2).ipynb)
+ 📊 [View the notebook](fuel_price_analysis(2).ipynb)
 
 ## 📸 Sample Visualization
 
-![Power BI Dashboard](images/simple_dashboard.png)
+![Power BI Dashboard](simple_dashboard.png)
 
 ## ✨ What You’ll Learn
 
