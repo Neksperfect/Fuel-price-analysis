@@ -40,9 +40,11 @@ This project dives deep into 2+ years of Nigerian fuel pricing data to understan
   - Macrotrends.net
  📊 [View the notebook](fuel_price_analysis(2).ipynb)
 
+
 ## 📸 Sample Visualization
 
-![Power BI Dashboard](simple_dashboard.png)
+[Power BI Dashboard](simple_dashbord.png)
+[Download the .pbix file](Fuel_prices.pbix)
 
 ## ✨ What You’ll Learn
 
